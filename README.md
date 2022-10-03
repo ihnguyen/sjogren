@@ -8,21 +8,21 @@ Evaluating the disease's prevalence and incidence is a step forward at learning 
 The following study was conducted to evaluate the prevalence and incidence of Sjogren's Syndrome diagnosis in U.S. adult population using commercial and medicare administrative health claims data.
 
 Results:
-<details><summary>Table 1</summary>
+<details><summary>Table 1: Sjogren's Syndrome Prevalence and Incidence Demographic Frequency Table.</summary>
 <p>
 
 ![ss_demo](https://user-images.githubusercontent.com/73903035/193506978-019f0a6e-d366-455c-be06-4e15c33c63de.PNG)
 
-Table 1: Sjogren's Syndrome Prevalence and Incidence Demographic Frequency Table.
+
 </p>
 </details>
 
 
-<details><summary>Table 2</summary>
+<details><summary>Table 2: Sjogren's Syndrome Prevalence and Incidence Overall Rates Table.</summary>
 <p>
 
 ![ss_overall](https://user-images.githubusercontent.com/73903035/193507119-749ec480-84f9-42b0-8d75-102b2360ace2.PNG)
 
-Table 2: Sjogren's Syndrome Prevalence and Incidence Overall Rates Table.
+
 </p>
 </details>
