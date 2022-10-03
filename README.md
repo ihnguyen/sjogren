@@ -10,9 +10,9 @@ The following study was conducted to evaluate the prevalence and incidence of Sj
 Results:
 <details><summary>Table 1</summary>
 <p>
-<br>
+
 ![ss_demo](https://user-images.githubusercontent.com/73903035/193506978-019f0a6e-d366-455c-be06-4e15c33c63de.PNG)
- </br>
+
 Table 1: Sjogren's Syndrome Prevalence and Incidence Demographic Frequency Table.
 </p>
 </details>
@@ -20,9 +20,9 @@ Table 1: Sjogren's Syndrome Prevalence and Incidence Demographic Frequency Table
 
 <details><summary>Table 2</summary>
 <p>
-<br>
+
 ![ss_overall](https://user-images.githubusercontent.com/73903035/193507119-749ec480-84f9-42b0-8d75-102b2360ace2.PNG)
-</br>
+
 Table 2: Sjogren's Syndrome Prevalence and Incidence Overall Rates Table.
 </p>
 </details>
