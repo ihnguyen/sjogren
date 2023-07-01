@@ -8,6 +8,9 @@ Evaluating the disease's prevalence and incidence is a step forward at learning 
 The following study was conducted to evaluate the prevalence and incidence of Sj&ouml;gren's Syndrome diagnosis in U.S. adult population using commercial and medicare administrative health claims data.
 
 Results:
+
+The observational study shows that middle aged women are the target population of Sj&ouml;gren's syndrome. It is recommended for women to test for Sj&ouml;gren's syndrome before they reach middle age as it can help mitigate the risk of developing this rare autoimmune diease.
+
 <details><summary>Table 1: Sj&ouml;gren's Syndrome Prevalence and Incidence Demographic Frequency Table.</summary>
 <p>
 
