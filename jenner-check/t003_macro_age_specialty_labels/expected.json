@@ -1,0 +1,14 @@
+{
+  "_captured_at": "2026-08-19T16:40:00Z",
+  "_captured_run_id": "r_a1c25704555740b69f571377d1e7b1e7",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote inc (6 rows, 3 columns).",
+    "NOTE: Wrote incprov (6 rows, 1 columns).",
+    "NOTE: PROC PRINT completed: 6 observations printed, 3 variables",
+    "NOTE: PROC PRINT completed: 6 observations printed, 1 variables"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

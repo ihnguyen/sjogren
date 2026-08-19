@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_multi_gap_exclusion",
+  "source_file": "SAS code.sas",
+  "source_blob_sha": "ccb512fa659cb56be783663d1d4bccbe98e67a2c",
+  "source_commit": "007c35b9441dac88488f05b2bd3e12c801b4a4ab",
+  "notes": "Adapted from lines 96-108 (exclusion criterion 3: patients with 2+ pre-index coverage gaps). Original runs this PROC SQL GROUP BY/HAVING flag against the real cohort built from MarketScan enrollment spans, then QC-checks it via a DATA-step merge anti-join against a reference dataset; replaced with an 8-row inline DATALINES panel of fabricated enrollee gap records and dropped the QC anti-join step (the real cohort and QC reference are restricted-access commercial claims data and are not present in the repo). The exclusion criterion (count>1 gap of 1-30 days) is unchanged from the source."
+}

@@ -1,0 +1,7 @@
+{
+  "bundle": "t006_prevalence_rate_calc",
+  "source_file": "SAS code.sas",
+  "source_blob_sha": "ccb512fa659cb56be783663d1d4bccbe98e67a2c",
+  "source_commit": "007c35b9441dac88488f05b2bd3e12c801b4a4ab",
+  "notes": "Adapted from lines 651-696: overall and gender-stratified prevalence rate calculation per 100,000, via PROC SQL SELECT ... INTO :macrovar counts followed by DATA-step rate arithmetic. Original runs this against the real 'genderadd'/'population' cohorts built from MarketScan claims data and a population denominator earlier in the script; replaced with small inline DATALINES panels of fabricated enrollee/population sex counts (the real cohorts are restricted-access commercial claims data and are not present in the repo). Rate formula (count/denominator * 100000) and rounding are unchanged from the source."
+}

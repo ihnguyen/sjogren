@@ -1,0 +1,19 @@
+
+                         txt1    txt2  sort
+-----------------------------  ------  ----
+Age range: 18-44 years, n (%)  Female     1
+Age range: 45-54 years, n (%)  Male       5
+Age range: 55-64 years, n (%)  Female     1
+Age range: 65-74 years, n (%)  Female     1
+Age range: 18-44 years, n (%)  Female     1
+Age range: >=75 years, n (%)   Male       8
+
+                                         txt1
+---------------------------------------------
+Physician specialty: Rheumatology, n (%)
+Physician specialty: Family Practice, n (%)
+Physician specialty: Internal Medicine, n (%)
+Physician specialty: Ophthalmology, n (%)
+Physician specialty: Unknown, n (%)
+Physician specialty: Others, n (%)
+

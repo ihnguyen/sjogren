@@ -1,0 +1,7 @@
+{
+  "bundle": "t007_proc_report_table",
+  "source_file": "SAS code.sas",
+  "source_blob_sha": "ccb512fa659cb56be783663d1d4bccbe98e67a2c",
+  "source_commit": "007c35b9441dac88488f05b2bd3e12c801b4a4ab",
+  "notes": "Adapted from lines 711-716: the final 'Demographics' PROC REPORT table (METRIC / SS Prevalent Cohort / SS Incident Cohort columns), column layout and DEFINE labels unchanged from the source. Original builds the input from the real 'demographics' dataset assembled across the whole script from MarketScan claims data and writes it to an ODS EXCEL workbook; replaced with a 5-row inline DATALINES table of fabricated summary-statistic strings and the default text listing destination (the real demographics table is built from restricted-access commercial claims data and is not present in the repo; the ODS EXCEL file-output destination was dropped since it does not fit a self-contained bundle -- PROC REPORT's column/label handling is what's under test)."
+}

@@ -1,0 +1,9 @@
+
+                         txt1       col2
+-----------------------------  ---------
+Age range: 18-44 years, n (%)  2 (25.0%)
+Age range: 45-54 years, n (%)  1 (12.5%)
+Age range: 55-64 years, n (%)  1 (12.5%)
+Age range: 65-74 years, n (%)  1 (12.5%)
+Age range: >=75 years, n (%)   3 (37.5%)
+
