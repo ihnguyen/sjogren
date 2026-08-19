@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_macro_age_specialty_labels",
+  "source_file": "SAS code.sas",
+  "source_blob_sha": "ccb512fa659cb56be783663d1d4bccbe98e67a2c",
+  "source_commit": "007c35b9441dac88488f05b2bd3e12c801b4a4ab",
+  "notes": "Adapted from lines 474-510: the repo's own %format and %prov macros (age-range/sex labeling and provider-specialty labeling for a summary table), called exactly as defined in the source. Original calls these against the real 'incidence'/'prevalence' cohorts built from MarketScan claims data earlier in the script; replaced with a 6-row inline DATALINES cohort of fabricated ages, sexes, and specialty codes (the real cohorts are restricted-access commercial claims data and are not present in the repo). Macro bodies are byte-identical to the source."
+}

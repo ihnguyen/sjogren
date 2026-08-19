@@ -1,0 +1,12 @@
+{
+  "_captured_at": "2026-08-19T16:52:00Z",
+  "_captured_run_id": "r_07239d676027405c80ba893091726677",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote demographics (5 rows, 3 columns).",
+    "NOTE: PROC REPORT output 5 observations with 3 variables."
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

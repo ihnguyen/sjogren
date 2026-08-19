@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_enrollment_gap_calc",
+  "source_file": "SAS code.sas",
+  "source_blob_sha": "ccb512fa659cb56be783663d1d4bccbe98e67a2c",
+  "source_commit": "007c35b9441dac88488f05b2bd3e12c801b4a4ab",
+  "notes": "Adapted from lines 1-75: enrollment-span sort, LAG-based gap detection, and pre/post index-window classification (indpre/indpos). Original reads a real MarketScan-derived enrollment extract via an external Windows path; replaced with an 8-row inline DATALINES panel of fabricated enrollee ids and coverage spans (the original data is restricted-access commercial claims data and is not present in the repo). PROC logic, date arithmetic, and window boundaries are unchanged from the source."
+}

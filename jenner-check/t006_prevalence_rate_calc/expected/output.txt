@@ -1,0 +1,7 @@
+
+          txt1     prev
+--------------  -------
+All             50000.0
+Gender: Female  60000.0
+Gender: Male    40000.0
+

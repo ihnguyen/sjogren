@@ -1,0 +1,15 @@
+{
+  "_captured_at": "2026-08-19T16:35:00Z",
+  "_captured_run_id": "r_4d7e100cc7fb4014b5dbb6da9dba37ad",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote merged (8 rows, 7 columns).",
+    "NOTE: Wrote lag (8 rows, 8 columns).",
+    "NOTE: Wrote gap (8 rows, 11 columns).",
+    "NOTE: Wrote prepostindex (3 rows, 13 columns).",
+    "NOTE: PROC PRINT completed: 3 observations printed, 7 variables"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

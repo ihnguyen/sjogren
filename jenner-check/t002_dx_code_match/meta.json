@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_dx_code_match",
+  "source_file": "SAS code.sas",
+  "source_blob_sha": "ccb512fa659cb56be783663d1d4bccbe98e67a2c",
+  "source_commit": "007c35b9441dac88488f05b2bd3e12c801b4a4ab",
+  "notes": "Adapted from lines 328-361: the wide dx1-dx15/pdx first-match-wins ICD code scan (ICD-9 exact '7102', ICD-10 prefix 'M350' via SUBSTR) that identifies a Sjogren's syndrome diagnosis on a claims record. Original merges three real MarketScan-derived claims extracts read from external Windows paths; replaced with a 5-row inline DATALINES panel of fabricated enrollee ids and dx codes (the real extracts are restricted-access commercial claims data and are not present in the repo). Matching logic is unchanged from the source."
+}
